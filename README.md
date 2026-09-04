@@ -89,7 +89,7 @@ O projeto foi desenvolvido utilizando o Figma.
 
 ### Tela do timer
 
-![Tela do Timer](images/tela-timer.png)
+![Tela do Timer](pomodoro-wireframe- 1.jpg)
 
 ## Tecnologias e ferramentas
 

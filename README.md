@@ -13,6 +13,10 @@ do usuário, além de exercitar conceitos e heurísticas de UI.
 
 O projeto foi desenvolvido utilizando o Figma.
 
+## 🔗 Protótipo
+
+[👉 Acessar projeto no Figma](https://www.figma.com/design/wPgGzooyfjkho2f8rIGu9U/PUNKDORO?node-id=20-82&t=tCDT5mi08N1WJ8Rs-1)
+
 ### Tela do timer
 
 ![Tela do Timer](pomodoro-wireframe-1.jpg)

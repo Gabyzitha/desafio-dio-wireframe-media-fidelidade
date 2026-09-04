@@ -9,6 +9,14 @@ O projeto foi desenvolvido inicialmente no Figma, com foco na criação
 da interface, hierarquia visual, organização dos elementos e experiência
 do usuário, além de exercitar conceitos e heurísticas de UI.
 
+## Design
+
+O projeto foi desenvolvido utilizando o Figma.
+
+### Tela do timer
+
+![Tela do Timer](pomodoro-wireframe-1.jpg)
+
 ## Objetivo
 
 O objetivo do projeto é criar uma interface simples e intuitiva para
@@ -83,13 +91,7 @@ limpa e adequada a uma ferramenta voltada para foco e produtividade.
 | Reconhecimento em vez de memorização | Opções de duração e tarefas visíveis |
 | Estética e design minimalista | Interface limpa e foco nas informações principais |
 
-## Design
 
-O projeto foi desenvolvido utilizando o Figma.
-
-### Tela do timer
-
-![Tela do Timer](pomodoro-wireframe- 1.jpg)
 
 ## Tecnologias e ferramentas
 
